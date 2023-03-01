@@ -47,7 +47,3 @@ source $WORKSPACE/fastdds_python_ws/install/setup.sh
 
 # for opendds
 source $WORKSPACE/OpenDDS/setenv.sh
-
-# for connextdds
-export CONNEXTDDS_HOME="$WORKSPACE/rti_connext_dds-6.1.1"
-```
